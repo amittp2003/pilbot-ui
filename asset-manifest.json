@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pilbot-ui/static/css/main.7a4791eb.css",
+    "main.js": "/pilbot-ui/static/js/main.3bb52aee.js",
+    "static/js/453.c534d181.chunk.js": "/pilbot-ui/static/js/453.c534d181.chunk.js",
+    "index.html": "/pilbot-ui/index.html",
+    "main.7a4791eb.css.map": "/pilbot-ui/static/css/main.7a4791eb.css.map",
+    "main.3bb52aee.js.map": "/pilbot-ui/static/js/main.3bb52aee.js.map",
+    "453.c534d181.chunk.js.map": "/pilbot-ui/static/js/453.c534d181.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a4791eb.css",
+    "static/js/main.3bb52aee.js"
+  ]
+}
