@@ -1,0 +1,110 @@
+{
+    "college_name": "Pillai College of Engineering",
+    "floor": "Fourth Floor",
+    "wings": {
+        "S": {
+            "name": "S Wing",
+            "rooms": [
+                {
+                    "room_number": "S401",
+                    "name": "Class Room",
+                    "type": "classroom",
+                    "nearby": ["S402", "Main Staircase"],
+                    "directions": {
+                        "from_staircase": "After reaching fourth floor, turn left to enter S wing. S401 is the first classroom on your right.",
+                        "to_s402": "Exit S401 and continue straight. S402 is the next classroom."
+                    }
+                },
+                {
+                    "room_number": "S402",
+                    "name": "Class Room",
+                    "type": "classroom",
+                    "nearby": ["S401", "S403", "S404"],
+                    "directions": {
+                        "from_s401": "Exit S401 and continue straight. S402 is the next classroom."
+                    }
+                },
+                {
+                    "room_number": "S403",
+                    "name": "Class Room",
+                    "type": "classroom",
+                    "nearby": ["S402", "S404"],
+                    "directions": {
+                        "from_s402": "Exit S402 and continue straight. S403 is the next classroom."
+                    }
+                },
+                {
+                    "room_number": "S404",
+                    "name": "Class Room",
+                    "type": "classroom",
+                    "nearby": ["S403", "S405", "S406"],
+                    "directions": {
+                        "from_s403": "Exit S403 and continue straight. S404 is the next classroom.",
+                        "to_toilets": "Exit S404 and turn right. S405 (Gents) and S406 (Ladies) toilets are next."
+                    }
+                },
+                {
+                    "room_number": "S405",
+                    "name": "Gents Toilet",
+                    "type": "facility",
+                    "nearby": ["S404", "S406", "S407"],
+                    "directions": {
+                        "from_s404": "Exit S404 and turn right. S405 is on your left."
+                    }
+                },
+                {
+                    "room_number": "S406",
+                    "name": "Ladies Toilet",
+                    "type": "facility",
+                    "nearby": ["S405", "S407"],
+                    "directions": {
+                        "from_s404": "Exit S404 and turn right. S406 is on your right."
+                    }
+                },
+                {
+                    "room_number": "S407",
+                    "name": "Drawing Hall/CR",
+                    "type": "facility",
+                    "nearby": ["S406", "S408"],
+                    "directions": {
+                        "from_toilets": "From the toilets, continue straight. S407 is the next room."
+                    }
+                },
+                {
+                    "room_number": "S408",
+                    "name": "Drawing Hall/CR",
+                    "type": "facility",
+                    "nearby": ["S407", "S409", "S410"],
+                    "directions": {
+                        "from_s407": "Exit S407 and continue straight. S408 is the next room."
+                    }
+                },
+                {
+                    "room_number": "S409",
+                    "name": "Ladies Toilet",
+                    "type": "facility",
+                    "nearby": ["S408", "S410"],
+                    "directions": {
+                        "from_s408": "Exit S408 and turn right. S409 is on your right."
+                    }
+                },
+                {
+                    "room_number": "S410",
+                    "name": "Gents Toilet",
+                    "type": "facility",
+                    "nearby": ["S409"],
+                    "directions": {
+                        "from_s408": "Exit S408 and turn right. S410 is on your left."
+                    }
+                }
+            ]
+        }
+    },
+    "general_directions": {
+        "s_to_r": "Exit S wing and turn right to enter R wing",
+        "r_to_p": "Exit R wing and continue straight to enter P wing",
+        "p_to_t": "Exit P wing and turn right to enter T wing",
+        "t_to_j": "Exit T wing and continue straight to enter J wing",
+        "j_to_o": "Exit J wing and turn left to enter O wing"
+    }
+}

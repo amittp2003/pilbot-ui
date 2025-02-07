@@ -1,0 +1,99 @@
+{
+    "post_title": "Student Journal",
+    "content": [
+        {
+            "header": "CSI Students Magazine",
+            "content": [
+                {
+                    "text": "Formed in 1965, theComputer Society of Indiahas been instrumental in guiding the Indian IT industry the right path since its formative years. Today, the CSI has 72 chapters all over India, 511 student branches and more than 1,00,000 members including India\u2019s most famous IT industry leaders, brilliant scientists and dedicated academicians."
+                },
+                {
+                    "text": "The mission of the CSI is to facilitate research, knowledge sharing, learning and career enhancement for all categories of IT professionals, while simultaneously inspiring and nurturing new entrants into the industry and helping them to integrate into the IT community. The CSI is also working closely with other industry associations, government bodies and academia to ensure that the benefits of IT advancement ultimately percolate down to every single citizen of India."
+                },
+                {
+                    "text": "Pillai College of Engineering (PCE) seeks to develop in its students a sound technical foundation and to enhance the natural curiosity of its engineers. We believe that a successful engineer is one who compliments his deep theoretical knowledge with an intuitive practical approach. Pillai College of Engineering (PCE) was formerly known as Pillai Institute of Information Technology, Engineering, Media Studies and Research (PIIT) from 1999 to 25th April, 2016."
+                },
+                {
+                    "text": "Our mission is to develop professional engineers with respect for the environment and make them responsible citizens in technological development both from an Indian and global perspective. This objective is fulfilled through quality education, practical training and interaction with industries and social organizations."
+                }
+            ]
+        },
+        {
+            "header": "Follow Us",
+            "content": [
+                {
+                    "text": "Facebook",
+                    "link": "https://www.facebook.com/CSI.PCE"                
+                },
+                {
+                    "text": "Bytestreamhappens to be the most awaited event of CSI-PCE. It is the committee\u2019s annual technical magazine\u2019s launch which is graced by the presence of renowned industrial tycoons who share their insights with budding engineers of this generation. The magazine itself is a collection of amazing technological articles and interviews of successful industrial personas of the IT sector. CSI-PCE has also managed to introduce out of the box concepts like study circles, apart from Bytestream, for students to showcase and hone their technical abilities among their peers."
+                }
+            ]
+        },
+        {
+            "header": "Byte Stream Magazines",
+            "content": [
+                {
+                    "table": [
+                        [
+                            {
+                                "text": "2014",
+                                "link": "https://www.pce.ac.in/wp-content/uploads/2019/05/bytestream-2014.pdf"
+                            },
+                            {
+                                "text": "2018",
+                                "link": "https://www.pce.ac.in/wp-content/uploads/2019/05/Bytestream-2018.pdf"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "2015",
+                                "link": "https://www.pce.ac.in/wp-content/uploads/2019/05/bytestream-2015.pdf"
+                            },
+                            {
+                                "text": "2019",
+                                "link": "https://www.pce.ac.in/wp-content/uploads/2019/05/Bytestream-2019.pdf"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "2017",
+                                "link": "https://www.pce.ac.in/wp-content/uploads/2019/05/bytestream-2017-10001.pdf"
+                            },
+                            ""
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "header": "Department Research Journal",
+            "content": [
+                {
+                    "table": [
+                        [
+                            {
+                                "text": "2020-21",
+                                "link": "https://www.pce.ac.in/wp-content/uploads/2021/10/COMP-Journal-2020-21.pdf"
+                            },
+                            {
+                                "text": "2019-20",
+                                "link": "https://www.pce.ac.in/wp-content/uploads/2021/10/COMP-Journal-2019-20.pdf"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "2018-19",
+                                "link": "https://www.pce.ac.in/wp-content/uploads/2021/10/COMP-Journal-2018-19.pdf"
+                            },
+                            {
+                                "text": "2017-18",
+                                "link": "https://www.pce.ac.in/wp-content/uploads/2021/10/COMP-Journal-2017-18.pdf"
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

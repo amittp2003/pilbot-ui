@@ -1,0 +1,383 @@
+{
+    "college_name": "Pillai College of Engineering",
+    "floor": "First Floor",
+    "main_landmarks": [
+        {
+            "name": "Staircase",
+            "description": "Main access point to the first floor"
+        }
+    ],
+    "wings": {
+        "S": {
+            "name": "S Wing",
+            "rooms": [
+                {
+                    "room_number": "S101",
+                    "name": "Computer Graphics Lab",
+                    "type": "lab",
+                    "nearby": ["S102", "Staircase"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your right and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor, you can find the Computer Graphics Lab to your left."
+                    }
+                },
+                {
+                    "room_number": "S102",
+                    "name": "Data Structure & Algorithm Lab / System Security & AD Network Lab",
+                    "type": "lab",
+                    "nearby": ["S101", "S103"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your right and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor, S-wing is on the left side. Walk straight a little, and the Data Structure Lab is the second room to your left."
+                    }
+                },
+                {
+                    "room_number": "S103",
+                    "name": "Computer Architecture Lab / Network Lab",
+                    "type": "lab",
+                    "nearby": ["S102", "S104"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your left and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor take left, walk straight, and you can find the S103 Computer Architecture Lab / Network Lab to your right."
+                    }
+                },
+                {
+                    "room_number": "S104",
+                    "name": "Open Source Lab",
+                    "type": "lab",
+                    "nearby": ["S103", "S105"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your left and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor take left, walk straight S104 is the first lab on your right."
+                    }
+                },
+                {
+                    "room_number": "S105",
+                    "name": "Gents Toilet",
+                    "type": "facility",
+                    "nearby": ["S104", "S106"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your left and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor take left, walk straight S105 is the first room which is gents toilet is on your left."
+                    }
+                },
+                {
+                    "room_number": "S106",
+                    "name": "Ladies Toilet",
+                    "type": "facility",
+                    "nearby": ["S105", "S107"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your left and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor take left, walk straight S106 is the second room which is ladies toilet is on your left."
+                    }
+                },
+                {
+                    "room_number": "S107",
+                    "name": "Database Lab",
+                    "type": "lab",
+                    "nearby": ["S106", "S108"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your left and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor take left, walk straight S107 is the third room on your left."
+                    }
+                },
+                {
+                    "room_number": "S108",
+                    "name": "Network & Cloud Computing Lab",
+                    "type": "lab",
+                    "nearby": ["S107", "S109"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your left and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor take left, walk straight S108 is next to S107 that is the fourth room on your left."
+                    }
+                },
+                {
+                    "room_number": "S109",
+                    "name": "Counselling Room",
+                    "type": "facility",
+                    "nearby": ["S108", "S110"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your left and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor take left, walk straight S109 is the fifth room on your left."
+                    }
+                },
+                {
+                    "room_number": "S110",
+                    "name": "System Software Lab",
+                    "type": "lab",
+                    "nearby": ["S109", "S111"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your right and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor, take left walk straight past S111, and S110 is the next lab on your right."
+                    }
+                },
+                {
+                    "room_number": "S111",
+                    "name": "Web Technology Lab",
+                    "type": "lab",
+                    "nearby": ["S110", "S112"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your right and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor take left, walk straight past S113 and S112, and S111 is the next lab on your right."
+                    }
+                },
+                {
+                    "room_number": "S112",
+                    "name": "Ladies Toilet",
+                    "type": "facility",
+                    "nearby": ["S111", "S113"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your right and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor take left, walk straight past S113, and S112 (Gents Toilet) is the on your right."
+                    }
+                },
+                {
+                    "room_number": "S113",
+                    "name": "Gents Toilet",
+                    "type": "facility",
+                    "nearby": ["S112"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your right and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor take left, walk straight S113 (Ladies Toilet) is the on your right."
+                    }
+                }
+            ]
+        },
+        "R": {
+            "name": "R Wing",
+            "rooms": [
+                {
+                    "room_number": "R101",
+                    "name": "Big Data Lab / Computer Programming and Data Structure Lab",
+                    "type": "lab",
+                    "nearby": ["R102", "S Wing"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your left and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor, turn left to enter R-wing. R101 is the first lab on your left."
+                    }
+                },
+                {
+                    "room_number": "R102",
+                    "name": "Advance Electronics Lab",
+                    "type": "lab",
+                    "nearby": ["R101", "R103"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your left and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor, turn left to enter R-wing. Walk straight R102 is the 2nd lab on your left."
+                    }
+                },
+                {
+                    "room_number": "R103",
+                    "name": "Faculty Room",
+                    "type": "office",
+                    "nearby": ["R102", "R104"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your left and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor, turn left to enter R-wing. Walk straight R103 is the 3rd room that is faculty room which is on your left."
+                    }
+                },
+                {
+                    "room_number": "R104",
+                    "name": "Gents Toilet",
+                    "type": "facility",
+                    "nearby": ["R103", "R105"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your left and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor, turn left to enter R-wing. Walk straight R104 (Gents Toilet) is the 4th room that is next to faculty room which is on your left."
+                    }
+                },
+                {
+                    "room_number": "R105",
+                    "name": "Ladies Toilet",
+                    "type": "facility",
+                    "nearby": ["R104"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your left and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor, turn left to enter R-wing. Walk straight R105 (Ladies Toilet) is the 5th room which is on your left."
+                    }
+                }
+            ]
+        },
+        "L": {
+            "name": "L Wing",
+            "rooms": [
+                {
+                    "room_number": "L102",
+                    "name": "PCIE and Committee's Cell",
+                    "type": "office",
+                    "nearby": ["R Wing", "P Wing"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your left and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor, turn left to enter R-wing, then walk straight past R wing to enter L-wing. L102 PICE and Committee's cell is on your right."
+                    }
+                }
+            ]
+        },
+        "P": {
+            "name": "P Wing",
+            "rooms": [
+                {
+                    "room_number": "P103",
+                    "name": "Computer Centre",
+                    "type": "facility",
+                    "nearby": ["P104", "L Wing"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your left and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor, turn left to enter R-wing, then walk straight past R wing and L-wing. Then take right go past O wing to enter P wing and P-103 is the first room."
+                    }
+                },
+                {
+                    "room_number": "P104",
+                    "name": "Guest Toilet",
+                    "type": "facility",
+                    "nearby": ["P103", "P105"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your left and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor, turn left to enter R-wing, then walk straight past R wing and L-wing. Then take right go past O wing to enter P wing then take a right turn at end and P-104 toilet is at your left."
+                    }
+                },
+                {
+                    "room_number": "P105",
+                    "name": "C.E.O Office",
+                    "type": "office",
+                    "nearby": ["P104"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your left and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor, turn left to enter R-wing, then walk straight past R wing and L-wing. Then take right go past O wing to enter P wing then take a right turn at end to find P-105  CEO's office which is next to guest toilet."
+                    }
+                }
+            ]
+        },
+        "T": {
+            "name": "T Wing",
+            "rooms": [
+                {
+                    "room_number": "T101",
+                    "name": "Physics Lab",
+                    "type": "lab",
+                    "nearby": ["T102", "P Wing"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your right and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor, turn right to enter T-wing. T101 is the first lab on your right."
+                    }
+                },
+                {
+                    "room_number": "T102",
+                    "name": "Chemistry Lab",
+                    "type": "lab",
+                    "nearby": ["T101", "T103"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your right and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor, turn right to enter T-wing. T102 is the 2nd lab on your right."
+                    }
+                },
+                {
+                    "room_number": "T103",
+                    "name": "Dark Room",
+                    "type": "facility",
+                    "nearby": ["T102", "T104"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your right and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor, turn right to enter T-wing.Walk straight T103 (Dark Room) is on your right."
+                    }
+                },
+                {
+                    "room_number": "T104",
+                    "name": "Gents Staff Toilet",
+                    "type": "facility",
+                    "nearby": ["T103"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your right and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor, turn right to enter T-wing.Walk straight till end T104 (Staff Toilet) is on your right."
+                    }
+                }
+            ]
+        },
+        "J": {
+            "name": "J Wing",
+            "rooms": [
+                {
+                    "room_number": "J101",
+                    "name": "Material Technology Lab",
+                    "type": "lab",
+                    "nearby": ["J102", "T Wing"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your left and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor, turn left to enter R-wing, then walk straight past R wing and L-wing. Then take right walk straight past O wing and P wing to find J-101 lab."
+                    }
+                },
+                {
+                    "room_number": "J102",
+                    "name": "Mechatronics Lab",
+                    "type": "lab",
+                    "nearby": ["J101", "J103"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your left and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor, turn left to enter R-wing, then walk straight past R wing and L-wing. Then take right walk straight past O wing and P wing then take left looking at J-101 lab to find J-102 lab next to it."
+                    }
+                },
+                {
+                    "room_number": "J103",
+                    "name": "HOD Cabin",
+                    "type": "office",
+                    "nearby": ["J102", "J104"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your left and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor, turn left to enter R-wing, then walk straight past R wing and L-wing. Then take right walk straight past O wing and P wing then take left to reach J wing J-103 is 3rd lab on your right"
+                    }
+                },
+                {
+                    "room_number": "J104",
+                    "name": "PCB Design Lab",
+                    "type": "lab",
+                    "nearby": ["J103", "J105"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your left and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor, turn left to enter R-wing, then walk straight past R wing and L-wing. Then take right walk straight past O wing and P wing then take left to reach J wing J-104 is 4th lab on your right"
+                    }
+                },
+                {
+                    "room_number": "J105",
+                    "name": "Power Electronics Lab",
+                    "type": "lab",
+                    "nearby": ["J104"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your left and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor, turn left to enter R-wing, then walk straight past R wing and L-wing. Then take right walk straight past O wing and P wing then take left to reach J wing J-105 is 5th lab at the end"
+                    }
+                }
+            ]
+        },
+        "O": {
+            "name": "O Wing",
+            "rooms": [
+                {
+                    "room_number": "O101",
+                    "name": "Faculty Room",
+                    "type": "office",
+                    "nearby": ["O102", "J Wing"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your left and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor, turn left to enter R-wing, then walk straight past R wing and L-wing. Then take right walk straight to find O wing and O-101 is on your right"
+                    }
+                },
+                {
+                    "room_number": "O102",
+                    "name": "Class Room",
+                    "type": "classroom",
+                    "nearby": ["O101", "O103"],
+                    "directions": {
+
+                        "from_reception": "Facing towards reception, turn to your left and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor, turn left to enter R-wing, then walk straight past R wing and L-wing. Then take right walk straight to find O wing there is a passage near O101 take left into that passage to find O-102"
+
+                    }
+                },
+                {
+                    "room_number": "O103",
+                    "name": "Class Room",
+                    "type": "classroom",
+                    "nearby": ["O102", "O104"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your left and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor, turn left to enter R-wing, then walk straight past R wing and L-wing. Then take right walk straight to find O wing there is a passage near O101 take left into that passage to find O-103 which is when you cross O-105"
+
+                    }
+                },
+                {
+                    "room_number": "O104",
+                    "name": "Class Room",
+                    "type": "classroom",
+                    "nearby": ["O103", "O105"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your left and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor, turn left to enter R-wing, then walk straight past R wing and L-wing. Then take right walk straight to find O wing there is a passage near O101 take left into that passage to find O-104 which is when you cross O-105"
+
+                    }
+                },
+                {
+                    "room_number": "O105",
+                    "name": "House Keeping",
+                    "type": "facility",
+                    "nearby": ["O104"],
+                    "directions": {
+                        "from_reception": "Facing towards reception, turn to your left and walk to the end. You can find the lift or grab the staircase for the first floor. When on the first floor, turn left to enter R-wing, then walk straight past R wing and L-wing. Then take right walk straight to find O wing there is a passage near O101 take left into that passage to find O-105"
+
+                    }
+                }
+            ]
+        }
+    },
+    "general_directions": {
+        "s_to_r": "R wing attached to S wing when you take a left from the area near S-104",
+        "r_to_s": "S wing is attached to R wing just take right from area near R-101",
+        "r_to_l": "R and L wings are nearby and you have to walk past area near R-105 to reach L wing",
+        "l_to_p": "R wing is near L wing, facing L-102 take left to go towards R wing",
+        "p_to_t": "P wing and T wing are not nearby as you have to go through O wing, L wing, R wing and S wing to reach there"
+    }
+}

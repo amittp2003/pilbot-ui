@@ -1,0 +1,146 @@
+{
+  "college_name": "Dr. K.M. Vasudevan Pillai Campus",
+  "floor": "Ground Floor",
+  "main_landmarks": [
+      {
+          "name": "Reception",
+          "description": "The reception is located in the S-Wing, near the central area where multiple wings intersect"
+      }
+  ],
+  "wings": {
+      "S": {
+          "name": "S Wing",
+          "rooms": [
+              {
+                  "room_number": "S-001A",
+                  "name": "First Aid Room",
+                  "type": "facility",
+                  "nearby": ["S-001B", "S-002", "Reception"],
+                  "directions": {
+                      "from_reception": "From reception, walk towards the entrance of S-Wing. S-001A is located on the left side near the entrance."
+                  }
+              },
+              {
+                  "room_number": "S-001B",
+                  "name": "Faculty Room",
+                  "type": "office",
+                  "nearby": ["S-001A", "S-002", "Reception"],
+                  "directions": {
+                      "from_reception": "From reception, walk towards the entrance of S-Wing. S-001B is on the left side, adjacent to S-001A."
+                  }
+              },
+              {
+                  "room_number": "S-005",
+                  "name": "Gents Toilet",
+                  "type": "facility",
+                  "nearby": ["S-007", "S-006", "S-008"],
+                  "directions": {
+                      "from_reception": "From reception, head towards R-Wing. The Gents Toilet (S-005) is located along the corridor connecting S-Wing and R-Wing, near the staircase."
+                  }
+              },
+              {
+                  "room_number": "S-007",
+                  "name": "Ladies Toilet",
+                  "type": "facility",
+                  "nearby": ["S-005", "S-006", "S-008"],
+                  "directions": {
+                      "from_reception": "From reception, head towards R-Wing. The Ladies Toilet (S-007) is located in the corridor connecting S-Wing and R-Wing, adjacent to S-005."
+                  }
+              },
+              {
+                  "room_number": "S-010",
+                  "name": "Office",
+                  "type": "office",
+                  "nearby": ["S-011", "S-009", "Staircase"],
+                  "directions": {
+                      "from_reception": "From reception, walk towards the R-Wing. S-010 is located along the main corridor, before reaching the toilets."
+                  }
+              },
+              {
+                  "room_number": "S-011",
+                  "name": "Office",
+                  "type": "office",
+                  "nearby": ["S-010", "S-012", "S-009"],
+                  "directions": {
+                      "from_reception": "From reception, walk towards the R-Wing. S-011 is located along the main corridor, next to S-010."
+                  }
+              },
+              {
+                  "room_number": "S-013",
+                  "name": "Gents Toilet",
+                  "type": "facility",
+                  "nearby": ["S-012", "T-Wing"],
+                  "directions": {
+                      "from_reception": "From reception, walk towards T-Wing. S-013 is located near the junction where S-Wing meets T-Wing."
+                  }
+              }
+          ]
+      },
+      "R": {
+          "name": "R Wing",
+          "rooms": [
+              {
+                  "room_number": "R-001",
+                  "name": "Class Room",
+                  "type": "classroom",
+                  "nearby": ["R-002", "R-003", "S-Wing"],
+                  "directions": {
+                      "from_reception": "Turn left exit S-Wing and turn right into R-Wing. R-001 is the first classroom."
+                  }
+              },
+              {
+                  "room_number": "R-002",
+                  "name": "Makers Studio",
+                  "type": "studio",
+                  "nearby": ["R-001", "R-003", "R-004"],
+                  "directions": {
+                      "from_reception": "Turn left exit S-Wing and turn right into R-Wing. R-002 is the second room on your right, next to R-001."
+                  }
+              },
+              {
+                  "room_number": "R-003",
+                  "name": "SOM Lab",
+                  "type": "lab",
+                  "nearby": ["R-002", "R-004", "L-Wing"],
+                  "directions": {
+                      "from_reception": "Turn left exit S-Wing and turn right into R-Wing. R-003 is the third room on your right, after R-002."
+                  }
+              }
+          ]
+      },
+      "T": {
+          "name": "T Wing",
+          "rooms": [
+              {
+                  "room_number": "T-001 TO T-004",
+                  "name": "Basic Engineering Workshop",
+                  "type": "workshop",
+                  "nearby": ["S-Wing", "Play Ground", "P-Wing"],
+                  "directions": {
+                      "from_reception": "Take Right facing reception, head straight towards T-Wing (its opposite direction from R-Wing). The Basic Engineering Workshop spans rooms T-001 to T-004 along the corridor."
+                  }
+              }
+          ]
+      },
+      "C": {
+          "name": "Canteen",
+          "rooms": [
+              {
+                  "room_number": "Canteen",
+                  "name": "Canteen",
+                  "type": "facility",
+                  "nearby": ["G-Wing", "Architecture Building", "J-Wing"],
+                  "directions": {
+                      "from_reception": "Exit S-Wing and walk straight ahead past the central atrium area. The canteen is located near the Architecture Building."
+                  }
+              }
+          ]
+      }
+  },
+  "general_directions": {
+      "s_to_r": "Exit S wing from left side of reception and turn right to enter R wing",
+      "r_to_s": "Exit R wing from R 001's side and turn left to enter S wing",
+      "r_to_t": "S wing is between R wing and T wing walk past S wing to reach R wing",
+      "t_to_canteen": "Exit T wing and walk straight till Architecture building and take left to enter Canteen"
+  }
+}

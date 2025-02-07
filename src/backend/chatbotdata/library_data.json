@@ -1,0 +1,209 @@
+{
+    "content": [
+        {
+            "htitle": "CEO's Message",
+            "content": []
+        },
+        {
+            "htitle": "PCE Library",
+            "content": [
+                "PCE Library isFully Automated Librarywith 26,273 plus collections. The collection can be searched from publicweb OPACandRack Index. Checked out books can be monitored through theBook Verification System.",
+                "The patron can see the number of books issued and their due date by the help of Library Web Application. Email alerts will be sent to the patron for all the library transactions and overdue of items in their possession. Number of patrons visiting in the library can be analyzed or summarised by theStudent In Out Counter."
+            ]
+        },
+        {
+            "htitle": "Library Collection",
+            "content": [
+                "The PCE Library has a huge and varied collection which includes:",
+                {
+                    "table": [
+                        [
+                            "Titles",
+                            "6,260"
+                        ],
+                        [
+                            "Volumes",
+                            "26,451"
+                        ],
+                        [
+                            "Journals & Periodicals",
+                            "100"
+                        ],
+                        [
+                            "Project Thesis",
+                            "1,520"
+                        ],
+                        [
+                            "Complementary CDs",
+                            "1,189"
+                        ],
+                        [
+                            "Multimedia CDs",
+                            "80"
+                        ],
+                        [
+                            "Online Databases",
+                            "IEEE, K-Hub Engineering, DELNET Proquest"
+                        ],
+                        [
+                            "E-books",
+                            "35,263"
+                        ],
+                        [
+                            "Newspaper",
+                            "4"
+                        ],
+                        [
+                            "Daily Checkouts",
+                            "300"
+                        ],
+                        [
+                            "Patron Count",
+                            "3,702"
+                        ],
+                        [
+                            "Special Reference Books",
+                            "1012"
+                        ],
+                        [
+                            "Plagiarism Software",
+                            "Turnitin"
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "htitle": "Library Team",
+            "content": [
+                "The PCE Library Staff",
+                {
+                    "table": [
+                        [
+                            "Librarian",
+                            "Ms. Nayema NasrinMr. Veereshprasad Sawadi"
+                        ],
+                        [
+                            "Library Assistant",
+                            "Mrs. Rajshri GholapMs. Komal Shinde Bapu"
+                        ],
+                        [
+                            "Library Attendant",
+                            "Mr. Rohidas BhoirMr. Naresh Patil"
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "htitle": "Library Services",
+            "content": []
+        },
+        {
+            "htitle": "Scan and Deliver System",
+            "content": [
+                "Scan & Deliver is a free document delivery service exclusively for PCE faculty, students and staff. With Scan & Deliver, you can get scanned copies from print material owned by our library usually within 7 business days."
+            ]
+        },
+        {
+            "htitle": "Procedure for placing the request",
+            "content": [
+                "You may place Scan & Deliver requests from the article request link in the WEB OPAC. Find the material you want scanned in the Library Catalogue.",
+                "When you find the correct record, choose Article Request from the item you want scanned.Login with your User ID and password to complete the request form.Some fields will be mandatory. Complete all required fields (chapter number, article title, inclusive pages, etc.) and provide any additional information that would help staff fill your request.Click Submit Request at the bottom of the request form.",
+                "You will receive an email notification with a link to the PDF when your request is available.",
+                "Please Note:",
+                "The purpose of the Scan & Deliver service is to provide library users with a copy of the requested material for personal use.Each user is currently limited to a maximum of 1 Scan & Deliver requests per weekMore than one chapter is not allowed.A maximum of 25 pages or 10 % may be requestedRequests will be filled as quickly as possible; please be aware it may take up to two weeks.Only items in good condition will be scannedThe Library reserves the right to limit the total number of requests by an individual user."
+            ]
+        },
+        {
+            "htitle": "Library Timing",
+            "content": [
+                "The PCE Library timings are:Monday to Saturday (During Semesters)8:00 hrs to 18:00 hrsMonday to Saturday (During Exams)8:00 hrs to 20:00 hrs"
+            ]
+        },
+        {
+            "htitle": "Issue and Return",
+            "content": [
+                "The Issue and Return System for Faculty and Students:",
+                {
+                    "table": [
+                        [
+                            "Faculty",
+                            "Book Borrow Duration",
+                            "1 Semester"
+                        ],
+                        [
+                            "Student",
+                            "Book Borrow Duration",
+                            "15 Days"
+                        ],
+                        [
+                            "Student",
+                            "Penalty for Late Return (Books)",
+                            "Rs. 2/- per unit per day"
+                        ],
+                        [
+                            "Student",
+                            "Penalty for Late Return (Reference Books)",
+                            "Rs. 10/- per unit per day"
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "htitle": "Membership Details",
+            "content": [
+                "For students, faculty and staff of:",
+                "Pillai Campus CollegesAgainst a valid Library CardOther CollegesAgainst a Reference Letter from their Librarian / Principal",
+                "Only PCE Students Faculty and Staff as registered members are allowed to use the PCE Library.Members should produce their Library Membership card at the entrance of the Library.",
+                ""
+            ]
+        },
+        {
+            "htitle": "Visitors",
+            "content": [
+                "Against a Reference Letter from their Librarian / Principal.The visiting scholar should bring original and valid photo ID."
+            ]
+        },
+        {
+            "htitle": "Circulation",
+            "content": [
+                "Student can Borrow 4 books for 15 Days.Faculty can Borrow 5 books for One Semester.Reference Books are issued for Overnight only.Books in demand may not be renewed.Readers are responsible for books issued against their names.Library reserves the right to recall any issued book even before the due date.The material such as rare books, theses, dissertations, loose issues of periodicals etc. marked for consultation shall not be issued.Borrowers must satisfy about the physical condition of the books before borrowing otherwise they will be held responsible for any damage later or at the time of return."
+            ]
+        },
+        {
+            "htitle": "Overdue charges",
+            "content": [
+                "Books:Rs. 2 per dayReference Books:Rs. 10 per day"
+            ]
+        },
+        {
+            "htitle": "Fee Collection",
+            "content": [
+                "https://pages.razorpay.com/pce-library-misc2022"
+            ]
+        },
+        {
+            "htitle": "Use of computers / laptops etc.",
+            "content": [
+                "Computer in the library premises should be used for academic purposes only.Online chatting / dating, browsing of social networking sites is strictly prohibited. Strict disciplinary action will be taken against the defaulters.Playing games on computers is strictly prohibited in the entire Library premises.Readers are not allowed to share their Internet access ID and Password with other students.Changing the settings and display of the computers kept in the Library is not permitted.Use of laptops where computers are already installed is not permitted.Readers should not remove / unplug computer cables/connections, network cables and other peripherals / accessories in the library.Personal keyboard, mouse, etc. are not allowed inside the Library.Students must take care of their Pen drives, CD / DVD ROMs, mobiles and wallets etc."
+            ]
+        },
+        {
+            "htitle": "General Rules",
+            "content": [
+                "Readers should observe strict silence inside the Library.Use of Mobile phones (Receiving or Calling) is not permitted inside the Library premises.Users are not allowed to carry eatables / drinks inside the Library premises.Library membership card is non-transferable.Personal belongings like bags (laptop, shoulder, sling), umbrellas, etc. should be deposited at the Property Counter. These are not allowed inside the Library.Readers are advised not to leave their valuable items like money, passport, credit card etc. at the Property Counter.Marking, scratching, damaging, mutilating, stealing, library materials or property will invite disciplinary action against the defaulters.Users should not rest or keep their feet on tables, chairs, shelves, etc.The library shall not be responsible for any loss or damage of the personal belongings of the users.The Librarian reserves the right to suspend the membership of any member found misbehaving with the library staff or with any other member.",
+                "The PCE Library has the membership of:",
+                "IUCEE Indo US Collaboration for Engineering Education"
+            ]
+        },
+        {
+            "htitle": "Contact Us",
+            "content": [
+                "Ask the Librarian atpcelibrary@mes.ac.in",
+                "Ph: 022-2745 1700 Ext-151Ph: 022-2745 6100 Ext-151Ph: 022-2746 3739 Ext-151"
+            ]
+        }
+    ]
+}

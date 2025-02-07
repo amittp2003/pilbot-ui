@@ -17,8 +17,8 @@ from langchain.agents import initialize_agent
 from langchain_huggingface import HuggingFaceEndpoint
 
 # Load the pre-trained index and vector store
-index = faiss.read_index("PCE_IND.index")
-with open("faiss_store_PCE_IND.pkl", "rb") as fp:
+index = faiss.read_index("index_PCE.index")
+with open("faiss_PCE.pkl", "rb") as fp:
     store = pickle.load(fp)
 store.index = index
 
