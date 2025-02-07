@@ -1,0 +1,48 @@
+{
+    "college_name": "Pillai College of Engineering",
+    "floor": "Third Floor",
+    "wings": {
+        "S": {
+            "name": "S Wing",
+            "rooms": [
+                {
+                    "room_number": "S301",
+                    "name": "Computer Programming Lab",
+                    "type": "lab",
+                    "nearby": ["S302", "Main Staircase"],
+                    "directions": {
+                        "from_staircase": "After reaching third floor, turn left to enter S wing. S301 is the first lab on your right.",
+                        "to_library": "Exit S301 and continue straight. S302 (Library) is the next room."
+                    }
+                },
+                {
+                    "room_number": "S302",
+                    "name": "Library",
+                    "type": "facility",
+                    "nearby": ["S301", "S303"],
+                    "directions": {
+                        "from_s301": "Exit S301 and continue straight. S302 is the next room.",
+                        "to_e_learning": "Exit the library and continue straight. S303 (E Learning Studio) is the next room."
+                    }
+                },
+                {
+                    "room_number": "S303",
+                    "name": "E Learning Studio",
+                    "type": "facility",
+                    "nearby": ["S302", "R Wing"],
+                    "directions": {
+                        "from_library": "Exit the library and continue straight. S303 is the next room.",
+                        "to_r_wing": "Exit S303 and turn right to enter R wing."
+                    }
+                }
+            ]
+        }
+    },
+    "general_directions": {
+        "s_to_r": "Exit S wing and turn right to enter R wing",
+        "r_to_p": "Exit R wing and continue straight to enter P wing",
+        "p_to_t": "Exit P wing and turn right to enter T wing",
+        "t_to_j": "Exit T wing and continue straight to enter J wing",
+        "j_to_o": "Exit J wing and turn left to enter O wing"
+    }
+}

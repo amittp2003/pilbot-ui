@@ -1,0 +1,143 @@
+{
+    "post_title": "Program Overview",
+    "content": [
+        {
+            "header": "B.Tech. in Computer Engineering",
+            "content": [
+                {
+                    "table": [
+                        [
+                            "Affiliated to",
+                            "Duration",
+                            "Academic Year",
+                            "Intake",
+                            "Theory Exam",
+                            "Curriculum"
+                        ],
+                        [
+                            "University of Mumbai",
+                            "4 years, Full Time",
+                            "2 semesters each",
+                            "180",
+                            "University of Mumbai",
+                            {
+                                "text": "Sem I - VIII",
+                                "link": "https://www.pce.ac.in/academics/bachelors/computer-engineering/curriculum/"
+                            }
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "header": "Research Areas",
+            "content": [
+                {
+                    "text": "The Faculty of the Department of Computer Engineering are experts in numerous disciplines and are involved in the following research areas:"
+                },
+                {
+                    "text": "Computer NetworksData MiningImage ProcessingCyber Security & Digital ForensicsNatural Language ProcessingUbiquitous ComputingMachine Learning and Data Science"
+                }
+            ]
+        },
+        {
+            "header": "Graduate Labs",
+            "content": [
+                {
+                    "text": "Computer ProgrammingData Structure and AlgorithmSystem Software LabDatabase LabData Mining LabArtificial IntelligenceComputer GraphicsOpen Source LabNetwork LabSystem SecurityWeb Technology"
+                }
+            ]
+        },
+        {
+            "header": "Program Overview",
+            "content": [
+                {
+                    "text": "Computer Engineering is the key that will open the door to a professional careers in the continuously changing technology sector With the development of faster hardware components new communication software and systems there is a demand for Engineers who study the design of digital hardware and software systems Graduates of this program are grounded in scientific mathematical and technical knowledge through a syllabus that is updated with current technological advancements they develop the ability to analyze synthesize and design both core parts of modern computing systems and integrated application systems centered around computers. The course encompasses a wide range of topics including computer architecture operating systems computer networks security robotics and artificial intelligence"
+
+
+                            
+                }
+            ]
+        },
+        {
+            "header": "Vision",
+            "content": [
+                {
+                    "blockquote": [
+                        {
+                            "text": "To evolve as a centre of academic excellence and to adapt itself to the rapid advancements in the Computer Engineering field."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "header": "Mission",
+            "content": [
+                {
+                    "blockquote": [
+                        {
+                            "text": "To produce highly qualified well rounded and motivated graduates who can meet new technical challenges contribute effectively as team members and be innovators in computer hardware software design and application To pursue creative research and new technologies in computer engineering and across disciplines in order to serve the needs of industry government society and scientific community To inculcate strong ethical values and responsibility towards society"
+                                    
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "header": "Program Educational Objectives (PEOs)",
+            "content": [
+                {
+                    "text": "Our graduates will have knowledge, skills and attitude that will allow them to contribute significantly to the research and the discovery of new knowledge and methods in computing.Our graduates will function ethically and responsibly, and will remain informed and involved as full participants in our profession and our society. Our graduates will successfully function in multi-disciplinary teams.Our graduates will apply the basic principles and practices of engineering in the computing domain to the benefit of society and to pursue life-long learning and professional developments.Our graduates will use theoretical and technical computer science knowledge to specify requirements, develop a design, and implement and verify a solution for computing systems of different levels of complexity.Our graduates will communicate effectively and demonstrate leadership as well as a commitment to teamwork while working with others of diverse cultural and interdisciplinary backgrounds."
+                }
+            ]
+        },
+        {
+            "header": "Program Outcomes (POs)",
+            "content": [
+                {
+                    "text": "Engineering Graduates will be able to:"
+                },
+                {
+                    "Engineering Knowledge": "Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.",
+                    "Problem Analysis": "Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.",
+                    "Design/Development of Solutions": "Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations.",
+                    "Conduct Investigations of Complex Problems": "Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.",
+                    "Modern Tool Usage": "Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations.",
+                    "The Engineer and Society": "Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.",
+                    "Environment and Sustainability": "Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.",
+                    "Ethics": "Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.",
+                    "Individual and Team Work": "Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.",
+                    "Communication": "Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.",
+                    "Project Management and Finance": "Demonstrate knowledge and understanding of the engineering and management principles and apply these to ones own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.",
+                    "Life-Long Learning": "Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change."
+                  }
+                
+            ]
+        },
+        {
+            "header": "Programme Specific Outcomes (PSOs)",
+            "content": [
+                {
+                    "text": "PSOs are statements that describe what the graduates of a specific engineering program should be able:"
+                },
+                
+                    {
+                        "Analyze, Design, and Develop Computer Programs": "To analyze, design and develop computer programs using appropriate hardware, software and mathematical models in the areas related to algorithms, system software, multimedia, mobile and web technology, data storage and computing, and networking for efficient and secure systems.",
+                        "Professional Engineering Practices": "To use professional engineering practices, logic and strategies for creating innovative career paths to be an entrepreneur, and an urge to pursue higher studies.",
+                        "Formulate and Solve Engineering Problems": "To formulate and solve real life engineering problems for the public health and safety with social and environmental awareness along with ethical responsibility."
+                      }
+                      
+                
+            ]
+        },
+        {
+            "links": [
+                {
+                    "text": "Sem I - VIII",
+                    "href": "https://www.pce.ac.in/academics/bachelors/computer-engineering/curriculum/"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "college_name": "Pillai College of Engineering",
+    "floor": "Second Floor",
+    "wings": {
+        "S": {
+            "name": "S Wing",
+            "rooms": [
+                {
+                    "room_number": "S201",
+                    "name": "Seminar/Assembly Hall",
+                    "type": "facility",
+                    "nearby": ["S202", "Main Staircase"],
+                    "directions": {
+                        "from_staircase": "After reaching second floor, turn left to enter S wing. S201 is the first room on your right.",
+                        "to_s202": "Exit S201 and continue straight. S202 is the next room."
+                    }
+                },
+                {
+                    "room_number": "S202",
+                    "name": "Shooting Range",
+                    "type": "facility",
+                    "nearby": ["S201", "S203", "S204"],
+                    "directions": {
+                        "from_s201": "Exit S201 and continue straight. S202 is the next room.",
+                        "to_toilets": "Exit S202 and turn right. Gents toilet (S203) is on the left and Ladies toilet (S204) is on the right."
+                    }
+                },
+                {
+                    "room_number": "S203",
+                    "name": "Gents Toilet",
+                    "type": "facility",
+                    "nearby": ["S202", "S204", "S205"],
+                    "directions": {
+                        "from_s202": "Exit S202 and turn right. S203 is on your left."
+                    }
+                },
+                {
+                    "room_number": "S204",
+                    "name": "Ladies Toilet",
+                    "type": "facility",
+                    "nearby": ["S203", "S205"],
+                    "directions": {
+                        "from_s202": "Exit S202 and turn right. S204 is on your right."
+                    }
+                },
+                {
+                    "room_number": "S205",
+                    "name": "Advance Database Lab",
+                    "type": "lab",
+                    "nearby": ["S204", "S206"],
+                    "directions": {
+                        "from_toilets": "From the toilets, continue straight. S205 is the next lab."
+                    }
+                },
+                {
+                    "room_number": "S206",
+                    "name": "Web Engineering Lab",
+                    "type": "lab",
+                    "nearby": ["S205", "S207"],
+                    "directions": {
+                        "from_s205": "Exit S205 and continue straight. S206 is the next lab."
+                    }
+                },
+                {
+                    "room_number": "S207",
+                    "name": "Pattern Engineering Open Space",
+                    "type": "facility",
+                    "nearby": ["S206", "S208"],
+                    "directions": {
+                        "from_s206": "Exit S206 and continue straight. S207 is the next room."
+                    }
+                },
+                {
+                    "room_number": "S208",
+                    "name": "Database and Data Mining Lab",
+                    "type": "lab",
+                    "nearby": ["S207", "S209"],
+                    "directions": {
+                        "from_s207": "Exit S207 and continue straight. S208 is the next lab."
+                    }
+                },
+                {
+                    "room_number": "S209",
+                    "name": "System Software Lab",
+                    "type": "lab",
+                    "nearby": ["S208", "S210"],
+                    "directions": {
+                        "from_s208": "Exit S208 and continue straight. S209 is the next lab."
+                    }
+                },
+                {
+                    "room_number": "S210",
+                    "name": "Gents Toilet",
+                    "type": "facility",
+                    "nearby": ["S209"],
+                    "directions": {
+                        "from_s209": "Exit S209 and continue straight. S210 is at the end of the corridor."
+                    }
+                }
+            ]
+        }
+    },
+    "general_directions": {
+        "s_to_r": "Exit S wing and turn right to enter R wing",
+        "r_to_p": "Exit R wing and continue straight to enter P wing",
+        "p_to_t": "Exit P wing and turn right to enter T wing",
+        "t_to_j": "Exit T wing and continue straight to enter J wing",
+        "j_to_o": "Exit J wing and turn left to enter O wing"
+    }
+}
